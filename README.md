@@ -1,7 +1,16 @@
 ### Hi there 👋
+---
+<a href="mailto:cooo23@naver.com" target="_black"><img src="https://img.shields.io/badge/cooo23@naver.com-62B47A?style=flat-square&logo=Naver&logoColor=white%22/%3E</a>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cooo23)](https://solved.ac/cooo23/)
+
+
+### 💪 MY STATS
+![cooo23's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooo23&theme=tokyonight&show_icons=true)
+<hr>
 
 <!--
-**cooo23/cooo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cooo23/cooo23 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
